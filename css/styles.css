@@ -79,6 +79,7 @@ body{
 }
 
 .card__stat-number{
+    font-family: 'Inter', sans-serif;
     color: var(--main-text-color);
     font-size: 2em;
     margin-bottom: .3em;
@@ -112,7 +113,7 @@ body{
     top: 0;
     left: 0;
     background: var(--accent);
-    opacity: .5;
+    opacity: .6;
 }
 
 /*! MEDIA QUERIES */
